@@ -88,7 +88,7 @@ ul.navbar li a:hover:not(.active){
 .about{
     margin-top: 100px;
     display: flex;
-    justify-content: space-between;  
+    justify-content: space-around;  
 }
 
 .about1{
@@ -196,4 +196,9 @@ figure{
     width: 100px;
     height: 100px;
     z-index: 4;
+}
+
+.commit2{
+    font-size: 24px ;
+    color: maroon;
 }
