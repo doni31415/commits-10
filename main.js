@@ -21,3 +21,5 @@ function renderFilms(filmArray) {
         </div>`;
     }
 }
+
+//hi
